@@ -1,5 +1,5 @@
 # Projects
-**IMPORTATNT: THIS README IS NOT READY AT ALL!!!** <br />
+**IMPORTANT: THIS README IS NOT READY AT ALL!!!** <br />
 In this repository I linked projects I did in the past as a "honorable mentions". These project mostly not done and some of theme are based on a tutorial or creted to a university assigment, or just fun projects I did.
 
 
