@@ -15,9 +15,12 @@ A collection of little graphics projects in Unity. <br>
 A really simple game launcher with a ""backend"" (The backend in this case some json files, and a folder in a PC). It was a college assignment and the main aim was create a UI application. <br>
 [repo](https://github.com/martonban/Launcher)
 
+# Bag Portal (Rust, Bevy - Closed Source)
+An abstraction layer between Bevy and our games
+
 # First Unity Game
 Tutorial based Unity game <br>
 [repo](https://github.com/martonban/UnityGameTutorial)
 
-# Emfis (Visual Basic, WinForms <closed source>)
+# Emfis (Visual Basic, WinForms - Closed Source)
 This was my first ever project back in high school. This is a productivity software wich helped block websites until a timer count down, so you can concentrate to your work. [More info](https://github.com/martonban/Emfis)
