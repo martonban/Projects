@@ -2,21 +2,23 @@
 **IMPORTANT: THIS README IS NOT READY AT ALL!!!** <br />
 In this repository I linked projects I did in the past as a "honorable mentions". These project mostly not done and some of theme are based on a tutorial or creted to a university assigment, or just fun projects I did.
 
-
+<!--
 # BagEngiene (Java, OpenGL, GLSL, ImGUI, Box2D)
 This is a 2D game engine in Java, based on a tutorial. <br>
 [repo](https://github.com/martonban/BagEnginePOC)
+-->
 
-# UnityGraphics
-A collection of little graphics projects in Unity. <br>
-[repo](https://github.com/martonban/UnityGraphics)
+
+# Bag Portal (Rust, Bevy - Closed Source)
+An indie studio what I am doing with my friend. Currently we cooking in the background. Check out our [website](https://sites.google.com/view/bagportal) for more inforamtion. 
+
+# Hobby Artist Portfolio (Substance Designer, InstaMAT, blender)
+I LOVE PBR materials, so as a hobby I started to doing material/texture artist projects. I experimenting with different tools like Substance Designer and InstaMAT. [My Projects](https://www.artstation.com/martonban)
 
 # Launcher (C#, WinForms)
 A really simple game launcher with a ""backend"" (The backend in this case some json files, and a folder in a PC). It was a college assignment and the main aim was create a UI application. <br>
 [repo](https://github.com/martonban/Launcher)
 
-# Bag Portal (Rust, Bevy - Closed Source)
-An abstraction layer between Bevy and our games
 
 # First Unity Game
 Tutorial based Unity game <br>
