@@ -4,8 +4,6 @@ In this repository I linked projects I did as fun. Most of them are started as a
 
 # LittleTechnicalArtProjects
 
-# Bag Portal (Rust, Bevy - Closed Source)
-An indie studio what I am doing with my friend. Currently we cooking in the background. Check out our [website](https://sites.google.com/view/bagportal) for more inforamtion. 
 
 # Hobby Artist Portfolio (Substance Designer, InstaMAT, blender)
 I LOVE PBR materials, so as a hobby I started to doing material/texture artist projects. I experimenting with different tools like Substance Designer and InstaMAT. [My Projects](https://www.artstation.com/martonban)
