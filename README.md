@@ -15,11 +15,12 @@ These repositories were primarily started as portfolio projects or for experimen
 These repositories were primarily created based on learning resourse wich can be courses, books, blog posts or other stuff.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| [C++ Programming + My C++ Notes](https://github.com/martonban/CPP_Programming) 🌟                     | C++ Programming                               |
-| [First Game Engine](https://github.com/martonban/BagEnginePOC) 🌟                                     | My first ever game engine in Java and OpenGL  |
-| [First Godot Game](https://github.com/martonban/FirstGodotGame)                                        | First Godot game                             |
-| [First Unity Game](https://github.com/martonban/UnityGameTutorial)                                     | First unity game (unfinished)                |
-| [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)         | C++ game programming course                  |
+| [C++ Programming + My C++ Notes](https://github.com/martonban/CPP_Programming) 🌟                     | C++ Programming                                                 |
+| [First Game Engine](https://github.com/martonban/BagEnginePOC) 🌟                                     | My first ever game engine in Java and OpenGL                    |
+| [Game Shader Programming](https://github.com/martonban/GameShaderBook)                                 | This is an implementation of "3D Game Shaders For Beginners"    |
+| [First Godot Game](https://github.com/martonban/FirstGodotGame)                                        | First Godot game                                                |
+| [First Unity Game](https://github.com/martonban/UnityGameTutorial)                                     | First unity game (unfinished)                                   |
+| [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)         | C++ game programming course                                     |
 | [Hello OpenGL](https://github.com/martonban/HelloOpenGL)                                               | My first 3D OpenGL project
 
 
