@@ -24,7 +24,7 @@ These repositories were primarily created based on learning resourse wich can be
 | [Hello OpenGL](https://github.com/martonban/HelloOpenGL)                                               | My first 3D OpenGL project
 
 
-# Old/Collage Projects
+# Old/College Projects
 Over the years, I have developed many projects. While most of them are nearly complete, they remain unfinished or lack high quality.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
