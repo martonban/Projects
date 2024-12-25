@@ -16,7 +16,7 @@ These repositories were primarily created based on learning resourse wich can be
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
 | [[WIP] C++ Programming + My C++ Notes](https://github.com/martonban/CPP_Programming) 🌟               | C++ Programming + Practice                                       |
-| [[WIP] Unity Math Course](https://github.com/martonban/UnityMathCourse) 🌟                            | Math concepts in Unity + Practice                                       |
+| [[WIP] Unity Math Course](https://github.com/martonban/UnityMathCourse) 🌟                            | Math concepts in Unity + Practice                                |
 | [First Game Engine](https://github.com/martonban/BagEnginePOC) 🌟                                     | My first ever game engine in Java and OpenGL                    |
 | [First Godot Game](https://github.com/martonban/FirstGodotGame)                                        | First Godot game                                                |
 | [First Unity Game](https://github.com/martonban/UnityGameTutorial)                                     | First unity game (unfinished)                                   |
@@ -34,6 +34,12 @@ Over the years, I have developed many projects. While most of them are nearly co
 | [Emfis](https://github.com/martonban/Emfis)                                      | My first big project in Visual Basic and WinForms                   |
 | [Disaster Valley](https://github.com/martonban/Disaster_Valley)                  | My first OpenGL game in Java
 
+# Hobby Projects 
+I LOVE Computer Graphics so I experimenting with different topic on this filed. Mainly look dev. You can see PBR materials I did in Substance Designer or blender. Shaders/VFX I did with Unity Shader Graph. 
+| Project        | Descripton                      |
+|----------------| ----------------------------------|
+| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241)  🌟             | Created in Substance Designer                                      |
+| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                               | Created in blender
 
 
 
