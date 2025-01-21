@@ -17,7 +17,7 @@ These repositories were primarily created based on learning resourse wich can be
 |----------------| ----------------------------------|
 | [[WIP] C++ Programming + My C++ Notes](https://github.com/martonban/CPP_Programming) 🌟               | C++ Programming + Practice                                       |
 | [[WIP] Unity Math Course](https://github.com/martonban/UnityMathCourse) 🌟                            | Math concepts in Unity + Practice                                |
-| [First Game Engine](https://github.com/martonban/BagEnginePOC) 🌟                                     | My first ever game engine in Java and OpenGL                    |
+<!--| [First Game Engine](https://github.com/martonban/BagEnginePOC) 🌟                                     | My first ever game engine in Java and OpenGL                    | -->
 | [First Godot Game](https://github.com/martonban/FirstGodotGame)                                        | First Godot game                                                |
 | [First Unity Game](https://github.com/martonban/UnityGameTutorial)                                     | First unity game (unfinished)                                   |
 | [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)         | C++ game programming course                                     |
