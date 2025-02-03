@@ -31,7 +31,7 @@ Over the years, I have developed numerous projects. While the majority of them a
 | [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)               | Collage assigment using C and AVX 🔰 ✅                                  |
 | [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)  | Collage assigment with Angular and Typescript 🔰 ✅                      |
 | [Emfis](https://github.com/martonban/Emfis)                                      | My first big project in Visual Basic and WinForms 🔰 ✅                  |
-| [Disaster Valley](https://github.com/martonban/Disaster_Valley)                  | My first OpenGL game in Java 🔰 ✅
+| [Disaster Valley](https://github.com/martonban/Disaster_Valley)                  | My first OpenGL game in Java 🔰 ❌
 
 # Look Development
 I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders and VFX I developed with Unity or Unreal Shader Graph.
