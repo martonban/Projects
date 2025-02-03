@@ -1,6 +1,6 @@
 # Projects
 
-This repository lists the projects I have developed over the years. These projects are generally smaller in scope compared to BagEngine or RenderLamp, but I believe they are still worth showcasing. Naturally, there are quality differences among these projects, as some are incomplete, abandoned, or still under development, and may not fully reflect my software development capabilities. The following table will provide a legend, which will be included next to each project.
+This repository lists the projects I have developed over the years. These projects are generally smaller in scope compared to [BagEngine](https://github.com/martonban/BagEngine) or [RenderLamp](https://github.com/martonban/RenderLamp), but I believe they are still worth showcasing. Naturally, there are quality differences among these projects, as some are incomplete, abandoned, or still under development, and may not fully reflect my software development capabilities. The following table will provide a legend, which will be included next to each project.
 
 # Shader Programming 
 Here you can find all of my projects related to shader programming.
@@ -16,7 +16,7 @@ These repositories were primarily created based on learning resources, which may
 |----------------| ----------------------------------|
 | [C++ Programming + My C++ Notes](https://github.com/martonban/CPP_Programming) 🌟                 | C++ Programming + Practice 👷🏻‍♂️                     |
 | [Unity Math Course](https://github.com/martonban/UnityMathCourse) 🌟                              | Math concepts in Unity + Practice 👷🏻‍♂️              |
-| [Unreal Engine Blueprint](https://github.com/martonban/UnrealBlueprintTutorial)                    | Unreal Engine Blueprint Tutorial series 🔰 ✅    |
+| [Unreal Engine Blueprint](https://github.com/martonban/UnrealBlueprintTutorial)                    | Unreal Engine Blueprint Tutorial series 🔰 👷🏻‍♂️    |
 | [First Godot Game](https://github.com/martonban/FirstGodotGame)                                    | First Godot game 🔰 ✅                           |
 | [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)     | C++ game programming course 🔰 ✅                |
 | [Hello OpenGL](https://github.com/martonban/HelloOpenGL)                                           | My first 3D OpenGL project 🔰✅                  |
