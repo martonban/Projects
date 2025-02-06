@@ -9,6 +9,13 @@ Here you can find all of my projects related to shader/graphics programming.
 | [Shader Programming](https://github.com/martonban/ShaderProgramming) 🌟                            | GLSL shader collection  👨🏻‍💻            |
 | [Little Technical Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)            | Small Techincal Art Projects 🔰 ✅   |
 
+# Tech Art
+I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders or VFX I developed with Unity/Unreal Shader Graph.
+| Project        | Descripton                                                                                                      |
+|----------------| ----------------------------------|
+| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241) 🌟             | Created in Substance Designer ✅     |
+| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                               | Created in blender 🔰✅
+
 
 # Learning Projects
 These repositories were primarily created based on learning resources, which may include courses, books, blog posts, or other materials.
@@ -32,13 +39,6 @@ Over the years, I have developed numerous projects. While the majority of them a
 | [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)  | Collage assigment with Angular and Typescript 🔰 ✅                      |
 | [Emfis](https://github.com/martonban/Emfis)                                      | My first big project in Visual Basic and WinForms 🔰 ✅                  |
 | [Disaster Valley](https://github.com/martonban/Disaster_Valley)                  | My first OpenGL game in Java 🔰 ❌
-
-# Look Development
-I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders and VFX I developed with Unity or Unreal Shader Graph.
-| Project        | Descripton                                                                                                      |
-|----------------| ----------------------------------|
-| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241) 🌟             | Created in Substance Designer ✅     |
-| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                               | Created in blender 🔰✅
 
 
 # Legend Quality
