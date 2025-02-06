@@ -2,12 +2,12 @@
 
 This repository lists the projects I have developed over the years. These projects are generally smaller in scope compared to [BagEngine](https://github.com/martonban/BagEngine) or [RenderLamp](https://github.com/martonban/RenderLamp), but I believe they are still worth showcasing. Naturally, there are quality differences among these projects, as some are incomplete, abandoned, or still under development, and may not fully reflect my software development capabilities. The [following tables](https://github.com/martonban/Projects?tab=readme-ov-file#legend-quality) will provide a legend, which will be included next to each project.
 
-# Shader Programming 
-Here you can find all of my projects related to shader programming.
+# Shader/Graphics Programming 
+Here you can find all of my projects related to shader/graphics programming.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
 | [Shader Programming](https://github.com/martonban/ShaderProgramming) 🌟                            | GLSL shader collection  👨🏻‍💻            |
-| [Little Technical Art Projects](https://github.com/martonban/LittleTechnicalArtProjects) 🌟        | Small Techincal Art Projects  👨🏻‍💻      |
+| [Little Technical Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)            | Small Techincal Art Projects 🔰 ✅   |
 
 
 # Learning Projects
