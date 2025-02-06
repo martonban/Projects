@@ -2,19 +2,11 @@
 
 This repository lists the projects I have developed over the years. These projects are generally smaller in scope compared to [BagEngine](https://github.com/martonban/BagEngine) or [RenderLamp](https://github.com/martonban/RenderLamp), but I believe they are still worth showcasing. Naturally, there are quality differences among these projects, as some are incomplete, abandoned, or still under development, and may not fully reflect my software development capabilities. The [following tables](https://github.com/martonban/Projects?tab=readme-ov-file#legend-quality) will provide a legend, which will be included next to each project.
 
-# Shader/Graphics Programming 
+# Shader Programming 
 Here you can find all of my projects related to shader/graphics programming.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
 | [Shader Programming](https://github.com/martonban/ShaderProgramming) 🌟                            | GLSL shader collection  👨🏻‍💻            |
-| [Little Technical Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)            | Small Techincal Art Projects 🔰 ✅   |
-
-# Tech Art
-I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders or VFX I developed with Unity/Unreal Shader Graph.
-| Project        | Descripton                                                                                                      |
-|----------------| ----------------------------------|
-| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241) 🌟             | Created in Substance Designer ✅     |
-| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                               | Created in blender 🔰✅
 
 
 # Learning Projects
@@ -28,6 +20,18 @@ These repositories were primarily created based on learning resources, which may
 | [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)     | C++ game programming course 🔰 ✅                |
 | [Hello OpenGL](https://github.com/martonban/HelloOpenGL)                                           | My first 3D OpenGL project 🔰✅                  |
 | [First Unity Game](https://github.com/martonban/UnityGameTutorial)                                 | First unity game 🔰 ❌                                
+
+
+# Tech Art
+I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders or VFX I developed with Unity/Unreal Shader Graph.
+| Project        | Descripton                                                                                                                 |
+|----------------| ----------------------------------|
+| [Little Technical Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)            | Small Techincal Art Projects 🔰 ✅   |
+| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241) 🌟                       | Created in Substance Designer ✅      |
+| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                                         | Created in blender 🔰✅
+
+
+
 
 
 # Old/College Projects
