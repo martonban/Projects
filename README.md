@@ -15,10 +15,10 @@ These repositories were primarily created based on learning resources, which may
 |----------------| ----------------------------------|
 | [C++ Programming + My C++ Notes](https://github.com/martonban/CPP_Programming) 🌟                 | C++ Programming + Practice 👷🏻‍♂️                     |
 | [Unity Math Course](https://github.com/martonban/UnityMathCourse) 🌟                              | Math concepts in Unity + Practice 👷🏻‍♂️              |
-| [Unreal Engine Blueprint](https://github.com/martonban/UnrealBlueprintTutorial)                    | Unreal Engine Blueprint Tutorial series 🔰 👷🏻‍♂️    |
 | [First Godot Game](https://github.com/martonban/FirstGodotGame)                                    | First Godot game 🔰 ✅                           |
 | [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)     | C++ game programming course 🔰 ✅                |
 | [Hello OpenGL](https://github.com/martonban/HelloOpenGL)                                           | My first 3D OpenGL project 🔰✅                  |
+| [Unreal Engine Blueprint](https://github.com/martonban/UnrealBlueprintTutorial)                    | Unreal Engine Blueprint Tutorial series 🔰 ❌    |
 | [First Unity Game](https://github.com/martonban/UnityGameTutorial)                                 | First unity game 🔰 ❌                                
 
 
