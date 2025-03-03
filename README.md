@@ -66,7 +66,6 @@ Over the years, I have developed numerous projects. While the majority of them a
 
 # Remake
 - Graphics Development
-    - https://github.com/martonban/ShaderProgramming
     - https://github.com/martonban/HelloOpenGL
     - https://github.com/martonban/Disaster_Valley
 - C++
