@@ -12,7 +12,7 @@ The purpose of this list is to provide a general overview of my software develop
 Here you can find all of my projects related to shader/graphics programming.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| [WIP][RayTracingSeries Impl](https://github.com/martonban/RayTracingSeriesTutorials)       | Implementing Ray Tracing series            |
+| [[WIP] RayTracingSeries Impl](https://github.com/martonban/RayTracingSeriesTutorials)       | Implementing Ray Tracing series            |
 | [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
 | [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)     
 
