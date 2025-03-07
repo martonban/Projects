@@ -7,91 +7,61 @@ The purpose of this list is to provide a general overview of my software develop
 
 **NOTE! THIS LIST IS CURRENTLY UNDER REMAKE!**
 
-# Shader Programming 
+# Graphics Programming 
 Here you can find all of my projects related to shader/graphics programming.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| [Shader Programming](https://github.com/martonban/ShaderProgramming) 🌟                            | GLSL shader collection  👨🏻‍💻            |
+| [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
+| [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)       
 
-
-# Learning Projects
-These repositories were primarily created based on learning resources, which may include courses, books, blog posts, or other materials.
+# C++
+These projects either contain smaller C++ projects or repositories created with the intent of learning.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| [C++ Programming + My C++ Notes](https://github.com/martonban/CPP_Programming) 🌟                 | C++ Programming + Practice 👷🏻‍♂️                     |
-| [Unity Math Course](https://github.com/martonban/UnityMathCourse) 🌟                              | Math concepts in Unity + Practice 👷🏻‍♂️              |
-| [First Godot Game](https://github.com/martonban/FirstGodotGame)                                    | First Godot game 🔰 ✅                           |
-| [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)     | C++ game programming course 🔰 ✅                |
-| [Hello OpenGL](https://github.com/martonban/HelloOpenGL)                                           | My first 3D OpenGL project 🔰✅                  |
-| [Unreal Engine Blueprint](https://github.com/martonban/UnrealBlueprintTutorial)                    | Unreal Engine Blueprint Tutorial series 🔰 ❌    |
-| [First Unity Game](https://github.com/martonban/UnityGameTutorial)                                 | First unity game 🔰 ❌                                
+| [CPP Programming + Note](https://github.com/martonban/CPP_Programming)                            | Showcase C++ concepts + my notes            |
+| [Modern C++ College Course](https://github.com/martonban/CppUniCourse)                            | Modern C++ Concepts       
+
+# Computing and Math 
+To understand computer graphics, it is essential to have a strong foundation in mathematics and to optimize the computational capacity of the computer. The following list contains the projects aimed at expanding my knowledge in these areas.
+| Project        | Descripton                      |
+|----------------| ----------------------------------|
+| [[WIP] Unity Math Course](https://github.com/martonban/UnityMathCourse)                            | Unity Math Course by Freya Holmér |
+| [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX     
+
+# Game Development 
+
+# Web/App Development
+Over the years, I have developed numerous projects. While the majority of them are nearly complete, they remain unfinished or lack the desired level of quality.
+| Project        | Descripton                      |
+|----------------| ----------------------------------|
+| [Launcher](https://github.com/martonban/Launcher)                                 | This is a C#/WinForm collage assigment with a simple "backend"          |
+| [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)  | Collage assigment with Angular and Typescript                     |
+| [Emfis](https://github.com/martonban/Emfis)                                      | My first big project in Visual Basic and WinForms                  |
 
 
 # Tech Art
 I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders or VFX I developed with Unity/Unreal Shader Graph.
 | Project        | Descripton                                                                                                                 |
 |----------------| ----------------------------------|
-| [Little Technical Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)            | Small Techincal Art Projects 🔰 ✅   |
-| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241) 🌟                       | Created in Substance Designer ✅      |
-| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                                         | Created in blender 🔰✅
+| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241)                        | Created in Substance Designer       |
+| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                                      | Created in blender
 
 
 
 
 
-# Old/College Projects
-Over the years, I have developed numerous projects. While the majority of them are nearly complete, they remain unfinished or lack the desired level of quality.
-| Project        | Descripton                      |
-|----------------| ----------------------------------|
-| [Launcher](https://github.com/martonban/Launcher) 🌟                            | This is a C#/WinForm collage assigment with a simple "backend" ✅         |
-| [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)               | Collage assigment using C and AVX 🔰 ✅                                  |
-| [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)  | Collage assigment with Angular and Typescript 🔰 ✅                      |
-| [Emfis](https://github.com/martonban/Emfis)                                      | My first big project in Visual Basic and WinForms 🔰 ✅                  |
-| [Disaster Valley](https://github.com/martonban/Disaster_Valley)                  | My first OpenGL game in Java 🔰 ❌
 
-
-# Legend Quality
-| Symbol        | Meaning                                         |
-|---------------| ----------------------------------|
-| 🌟  | These projects represent a higher level of quality.      |
-| 🔰  | These projects represent an okay level of quality.       |
-
-# Legend Progress
-| Symbol        | Meaning                      |
-|---------------| ---------------------------|
-|  ✅ | Done                                   |
-|  👨🏻‍💻 | Constantly Developing                  |
-|  👷🏻‍♂️ | Under Development (Unfinished)         |
-|  ❌ | Abandoned    
-
-# Remake
-- Graphics Development
-    - https://github.com/martonban/HelloOpenGL
-    - https://github.com/martonban/Disaster_Valley
-- C++
-    - https://github.com/martonban/CPP_Programming
-    - https://github.com/martonban/CppUniCourse
-- Math
-    - https://github.com/martonban/UnityMathCourse
 - Game Development
     - https://github.com/martonban/FirstGodotGame
     - https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners
     - https://github.com/martonban/UnrealBlueprintTutorial
     - https://github.com/martonban/UnityGameTutorial
-- Computeing
-   - https://github.com/martonban/AVX_Programing_Uni
-   - 
-- Tech Art
-    - https://github.com/martonban/LittleTechnicalArtProjects
-    - https://x.com/marton_ban/status/1858596984946643241
-    - https://www.artstation.com/artwork/Ezw8z8
+
 
 - Web/App Development
-    - https://github.com/martonban/Launcher
+
     - https://github.com/martonban/Uni_DBII_Assignment
     - https://github.com/martonban/Uni_Java_Assignment
     - https://github.com/martonban/UniWebTechnologiesAssigment
-    - https://github.com/martonban/Emfis
     - https://github.com/martonban/SimpleCV_PortfolioProject
-    - https://github.com/martonban/FullStackWebAppUniAssignment
 
