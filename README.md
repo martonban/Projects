@@ -1,7 +1,7 @@
 # Projects
 
-This repository lists the projects I have developed over the years. These projects are generally smaller in scope compared to [RenderLamp](https://github.com/martonban/RenderLamp) or [Arca](https://github.com/martonban/Arca), but I believe they are still worth showcasing. Naturally, there are quality differences among these projects, as some are incomplete, abandoned, or still under development, and may not fully reflect my software development capabilities.
-I have categorized the projects by topics. Each topic will have a short description along with a table listing the projects, supplemented with a brief summary. The list is actually ordered based on quality. At the top are the projects that I believe turned out the best, in the middle are the average ones, and at the bottom are the unfinished projects that I abandoned for some reason. 
+This repository lists the projects I have developed over the years. These projects are generally smaller in scope compared to [RenderLamp](https://github.com/martonban/RenderLamp) or [Arca](https://github.com/martonban/Arca) but I believe they are still worth showcasing. Naturally, there are quality differences among these projects, as some are incomplete, abandoned, or still under development, and may not fully reflect my software development capabilities.
+
 The purpose of this list is to provide a general overview of my software development background. Each project in the list has a more detailed description, so it's worth checking them out!
 
 
@@ -29,14 +29,24 @@ To understand computer graphics, it is essential to have a strong foundation in 
 | [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX     
 
 # Game Development 
-
-# Web/App Development
-Over the years, I have developed numerous projects. While the majority of them are nearly complete, they remain unfinished or lack the desired level of quality.
+Game development is a hobby I deeply enjoy. Currently, I have been exploring the available technologies. When time permits, I plan to develop games in the future.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| [Launcher](https://github.com/martonban/Launcher)                                 | This is a C#/WinForm collage assigment with a simple "backend"          |
-| [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)  | Collage assigment with Angular and Typescript                     |
-| [Emfis](https://github.com/martonban/Emfis)                                      | My first big project in Visual Basic and WinForms                  |
+| [First Godot Game](https://github.com/martonban/FirstGodotGame)                                 | My first ever godot game                  |
+| [First C++ Game](https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners)  | My first ever C++ game                    |
+| [Unreal Blueprint Tutorial](https://github.com/martonban/UnrealBlueprintTutorial)               | First experience with Unreal Engine 5     |
+| [First Unity Game](https://github.com/martonban/UnityGameTutorial)                              | My first ever Unity game (unfinished)                    
+
+# Web/App Development
+
+| Project        | Descripton                      |
+|----------------| ----------------------------------|
+| [Frontend Web App](https://github.com/martonban/UniWebTechnologiesAssigment)       | This is a landing page using HTML, CSS, Bootstrap, Javascript and three.js                    |
+| [Launcher](https://github.com/martonban/Launcher)                                 | This is a C#/WinForm collage assigment with a simple "backend"    |
+| [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)   | Collage assigment with Angular and Typescript                     |
+| [Simple CV website](https://github.com/martonban/SimpleCV_PortfolioProject)       | My first ever HTML, CSS project                                   |
+| [App1](https://github.com/martonban/Uni_Java_Assignment) [App2](https://github.com/martonban/Uni_DBII_Assignment)        | Java applications using sqllite and swing                  |
+| [Emfis](https://github.com/martonban/Emfis)                                       | My first big project in Visual Basic and WinForms                  |
 
 
 # Tech Art
@@ -45,23 +55,4 @@ I am deeply passionate about computer graphics, and I experiment with various to
 |----------------| ----------------------------------|
 | [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241)                        | Created in Substance Designer       |
 | [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                                      | Created in blender
-
-
-
-
-
-
-- Game Development
-    - https://github.com/martonban/FirstGodotGame
-    - https://github.com/martonban/CPP_Fundamentals_Game_Programming_For_Beginners
-    - https://github.com/martonban/UnrealBlueprintTutorial
-    - https://github.com/martonban/UnityGameTutorial
-
-
-- Web/App Development
-
-    - https://github.com/martonban/Uni_DBII_Assignment
-    - https://github.com/martonban/Uni_Java_Assignment
-    - https://github.com/martonban/UniWebTechnologiesAssigment
-    - https://github.com/martonban/SimpleCV_PortfolioProject
 
