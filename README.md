@@ -55,6 +55,7 @@ Game development is a hobby I deeply enjoy. Currently, I have been exploring the
 I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders or VFX I developed with Unity/Unreal Shader Graph.
 | Project        | Descripton                                                                                                                 |
 |----------------| ----------------------------------|
+| [Little Tech Art Projects](https://x.com/marton_ban/status/1858596984946643241)                  | Small Tech Art project using shader programming      |
 | [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241)                        | Created in Substance Designer       |
 | [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                                      | Created in blender
 
