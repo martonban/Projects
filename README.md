@@ -41,8 +41,8 @@ Game development is a hobby I deeply enjoy. Currently, I have been exploring the
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
 | [Frontend Web App](https://github.com/martonban/UniWebTechnologiesAssigment)       | This is a landing page using HTML, CSS, Bootstrap, Javascript and three.js + LIVE DEMO          |
-| [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)   | Collage assigment with Angular and Typescript + LIVE DEMO                     |
-| [Simple CV website](https://github.com/martonban/SimpleCV_PortfolioProject)       | My first ever HTML, CSS project                                   |
+| [Full Stack Web App](https://github.com/martonban/FullStackWebAppUniAssignment)   | Collage assigment with Angular and Typescript                  |
+| [Simple CV website](https://github.com/martonban/SimpleCV_PortfolioProject)       | My first ever HTML, CSS project  + LIVE DEMO                                     |
 | [App1](https://github.com/martonban/Uni_Java_Assignment) [App2](https://github.com/martonban/Uni_DBII_Assignment)        | Java applications using sqllite and swing                  |
 | [Emfis](https://github.com/martonban/Emfis)                                       | My first big project in Visual Basic and WinForms                  |
 
