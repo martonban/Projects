@@ -11,6 +11,13 @@ To understand computer graphics, it is essential to have a strong foundation in 
 | 🌟 [[WIP] Math Projects](https://github.com/martonban/MathProjects)                               | Unity Math projects |
 | 🌟 [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX     
 
+# Graphics Programming
+These are my graphics projects that represent a lower level of quality. If you are interested in larger-scope projects, please take a look at my [RenderLamp](https://github.com/martonban/RenderLamp) or [GraphicsProjects](https://github.com/martonban/GraphicsProjects) repositories.
+| Project        | Descripton                      |
+|----------------| ----------------------------------|
+| [[WIP] Ray Tracing Tutorial](https://github.com/martonban/RayTracingSeriesTutorials)       | A CPU Ray Tracer implementation                           |
+| [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
+| [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)     
 
 # C++
 These projects either contain smaller C++ projects or repositories created with the intent of learning.
@@ -18,13 +25,6 @@ These projects either contain smaller C++ projects or repositories created with 
 |----------------| ----------------------------------|
 | [CPP Programming + Note](https://github.com/martonban/CPP_Programming)                            | Showcase C++ concepts + my notes            |
 | [Modern C++ College Course](https://github.com/martonban/CppUniCourse)                            | Modern C++ Concepts       
-
-# Graphics Programming
-These are my graphics projects that represent a lower level of quality. If you are interested in larger-scope projects, please take a look at my [RenderLamp](https://github.com/martonban/RenderLamp), [GraphicsProjects](https://github.com/martonban/GraphicsProjects), and [ShaderProgramming](https://github.com/martonban/ShaderProgramming) repositories.
-| Project        | Descripton                      |
-|----------------| ----------------------------------|
-| [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
-| [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)     
 
 
 # Game Development 
@@ -48,10 +48,8 @@ Game development is a hobby I deeply enjoy. Currently, I have been exploring the
 
 
 # Tech Art/Art
-I am deeply passionate about computer graphics, and I experiment with various topics within this field, primarily focusing on look development. You can find PBR materials I created using Substance Designer or Blender, as well as shaders or VFX I developed with Unity/Unreal Shader Graph.
+As a hobby, I greatly enjoy engaging in artistic activities. This list includes some of my technical art projects. If you're interested in more artistically focused works, such as 3D renders or vector illustrations, feel free to visit my [ArtStation](https://www.artstation.com/martonban) profile.
 | Project        | Descripton                                                                                                                 |
 |----------------| ----------------------------------|
-| 🌟 [Little Tech Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)           | Small Tech Art project using shader programming      |
-| [Blue Tile Material](https://x.com/marton_ban/status/1858596984946643241)                        | Created in Substance Designer       |
-| [Pearl Material](https://www.artstation.com/artwork/Ezw8z8)                                      | Created in blender
+| [Little Tech Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)           | Small Tech Art project using shader programming      |
 
