@@ -4,6 +4,13 @@ This repository lists the projects I have developed over the years. These projec
 
 The purpose of this list is to provide a general overview of my software development background. Each project in the list has a more detailed description, so it's worth checking them out!
 
+# Computing and Math 
+To understand computer graphics, it is essential to have a strong foundation in mathematics and to optimize the computational capacity of the computer. The following list contains the projects aimed at expanding my knowledge in these areas.
+| Project        | Descripton                      |
+|----------------| ----------------------------------|
+| 🌟 [[WIP] Math Projects](https://github.com/martonban/MathProjects)                               | Unity Math projects |
+| 🌟 [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX     
+
 
 # C++
 These projects either contain smaller C++ projects or repositories created with the intent of learning.
@@ -19,12 +26,6 @@ These are my graphics projects that represent a lower level of quality. If you a
 | [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
 | [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)     
 
-# Computing and Math 
-To understand computer graphics, it is essential to have a strong foundation in mathematics and to optimize the computational capacity of the computer. The following list contains the projects aimed at expanding my knowledge in these areas.
-| Project        | Descripton                      |
-|----------------| ----------------------------------|
-| 🌟 [[WIP] Unity Math Course](https://github.com/martonban/UnityMathCourse)                            | Unity Math Course by Freya Holmér |
-| 🌟 [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX     
 
 # Game Development 
 Game development is a hobby I deeply enjoy. Currently, I have been exploring the available technologies. When time permits, I plan to develop games in the future.
