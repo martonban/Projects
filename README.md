@@ -8,8 +8,7 @@ The purpose of this list is to provide a general overview of my software develop
 To understand computer graphics, it is essential to have a strong foundation in mathematics and to optimize the computational capacity of the computer. The following list contains the projects aimed at expanding my knowledge in these areas.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| 🌟 [[WIP] Math Projects](https://github.com/martonban/MathProjects)                               | Unity Math projects |
-| 🌟 [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX     
+| 🌟 [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX  |   
 
 # Graphics Programming
 These are my graphics projects that represent a lower level of quality. If you are interested in larger-scope projects, please take a look at my [RenderLamp](https://github.com/martonban/RenderLamp) or [GraphicsProjects](https://github.com/martonban/GraphicsProjects) repositories.
@@ -18,13 +17,6 @@ These are my graphics projects that represent a lower level of quality. If you a
 | [[WIP] Ray Tracing Tutorial](https://github.com/martonban/RayTracingSeriesTutorials)       | A CPU Ray Tracer implementation                           |
 | [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
 | [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)     
-
-# C++
-These projects either contain smaller C++ projects or repositories created with the intent of learning.
-| Project        | Descripton                      |
-|----------------| ----------------------------------|
-| [CPP Programming + Note](https://github.com/martonban/CPP_Programming)                            | Showcase C++ concepts + my notes            |
-| [Modern C++ College Course](https://github.com/martonban/CppUniCourse)                            | Modern C++ Concepts       
 
 
 # Game Development 
