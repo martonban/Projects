@@ -14,7 +14,6 @@ To understand computer graphics, it is essential to have a strong foundation in 
 These are my graphics projects that represent a lower level of quality. If you are interested in larger-scope projects, please take a look at my [RenderLamp](https://github.com/martonban/RenderLamp) or [GraphicsProjects](https://github.com/martonban/GraphicsProjects) repositories.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| [[WIP] Ray Tracing Tutorial](https://github.com/martonban/RayTracingSeriesTutorials)       | A CPU Ray Tracer implementation                           |
 | [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
 | [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)     
 
@@ -38,10 +37,4 @@ Game development is a hobby I deeply enjoy. Currently, I have been exploring the
 | [App1](https://github.com/martonban/Uni_Java_Assignment) [App2](https://github.com/martonban/Uni_DBII_Assignment)        | Java applications using sqllite and swing                  |
 | [Emfis](https://github.com/martonban/Emfis)                                       | My first big project in Visual Basic and WinForms                  |
 
-
-# Tech Art/Art
-As a hobby, I greatly enjoy engaging in artistic activities. This list includes some of my technical art projects. If you're interested in more artistically focused works, such as 3D renders or vector illustrations, feel free to visit my [ArtStation](https://www.artstation.com/martonban) profile.
-| Project        | Descripton                                                                                                                 |
-|----------------| ----------------------------------|
-| [Little Tech Art Projects](https://github.com/martonban/LittleTechnicalArtProjects)           | Small Tech Art project using shader programming      |
 
