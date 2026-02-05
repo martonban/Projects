@@ -8,15 +8,22 @@ The purpose of this list is to provide a general overview of my software develop
 To understand computer graphics, it is essential to have a strong foundation in mathematics and to optimize the computational capacity of the computer. The following list contains the projects aimed at expanding my knowledge in these areas.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| 🌟 [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX  |   
+| 🌟 [AVX Programming](https://github.com/martonban/AVX_Programing_Uni)                                |  Collage assigment using C and AVX  |
+| [Low Level Programming](https://github.com/martonban/LowLevelProgramming)                               | This is a collection of my small C/C++ projects   
+
 
 # Graphics Programming
-These are my graphics projects that represent a lower level of quality. If you are interested in larger-scope projects, please take a look at my [RenderLamp](https://github.com/martonban/RenderLamp) or [GraphicsProjects](https://github.com/martonban/GraphicsProjects) repositories.
+These are my graphics projects that represent a lower level of quality. If you are interested in larger-scope projects, please take a look at my [RenderLamp](https://github.com/martonban/RenderLamp), [RenderArc](https://github.com/martonban/RenderArc)  or [GraphicsProjects](https://github.com/martonban/GraphicsProjects) repositories.
 | Project        | Descripton                      |
 |----------------| ----------------------------------|
-| [HelloOpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
+| [Hello OpenGL](https://github.com/martonban/HelloOpenGL)                                    | My first ever graphics project (C++, OpenGL)              |
 | [Disaster Valley](https://github.com/martonban/Disaster_Valley)                            | My first ever game developed in OpenGL. (Java, OpenGL)     
 
+# Tech Art / Look Development Projects
+| Project        | Descripton                      |
+|----------------| ----------------------------------|
+| [Godot Tech Art](https://github.com/martonban/GodotTechArt)                                | Experimenting with lighting, VFX and animation in Godot.             |
+| [Unity Shaders](https://github.com/martonban/UnityShaders)                                 | Shader practice/tutorial projects in Unity     
 
 # Game Development 
 Game development is a hobby I deeply enjoy. Currently, I have been exploring the available technologies. When time permits, I plan to develop games in the future.
